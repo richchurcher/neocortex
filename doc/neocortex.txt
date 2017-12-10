@@ -1,0 +1,60 @@
+*Neocortex* - a teaching game for Neovim.
+
+                                         ░░
+                                 ░░░░░░░░▓▓░░░
+                              ░░░▓░▒▒▓▓█░▓▓▓▒▓░░░
+                           ░░░▓▓▓▓░░▓▓░░▓▓█░▓▓▒▓▒░░
+                          ░▓▓█░░▓░▓▓▓░▓▓█▓█░░░▒▓░▒▒░
+                        ░░▓▒▓███▓░█▓░▓▓█▓░░▓▓▓▓░▒░▓▓░░
+                       ░▓░▒▓░▓▓▓░▓█▓░▓█▓▓▓▓▓░░░░▓▓▓▓░▒░
+                     ░░▓▒░▓██░▒▓▓░▓▓▒░█▓░▒▒░▓█░▓░▓█░▓▓▒░
+
+                          n  e  o  c  o  r  t  e  x
+
+==============================================================================
+CONTENTS                                                  *neocortex-contents*
+
+    1. Why ................................................... |neocortex-why|
+    2. Commands ......................................... |neocortex-commands|
+    3. About ............................................... |neocortex-about|
+    4. License ........................................... |neocortex-license|
+
+==============================================================================
+1. Why                                                         *neocortex-why*
+
+Back in the day, I very much enjoyed Doron Linder's "Vim Adventures"
+(https://vim-adventures.com/). However, I became frustrated with the idea
+that, having paid for the game at one early stage, I could no longer access it
+to revisit levels or just play around due to a restrictive subscription model.
+
+I also found the idea of learning from within the editor compelling. I realise
+there are plenty of people who don't like the thought of learning Vim any
+other way than by using it, but having the option strikes me as useful.
+Hopefully, developing the game will lead to tools which could be used to
+deliver other immersive tutorial-style content.
+
+I wanted to play with Neovim plugins using Lua once it because a core part of
+the editor. Plus, I guess I just wanted to write a game. Consider this the
+results of my goofing off from time to time in an effort to learn more about
+a tool of the trade.
+
+==============================================================================
+2. Commands                                               *neocortex-commands*
+
+                                                              *:NeocortexPlay*
+:NeocortexPlay          Launch the game in a new buffer.
+
+==============================================================================
+3. About                                                     *neocortex-about*
+
+    Rich Churcher (GitHub: richchurcher)
+
+Find the latest version at:
+
+    http://github.com/richchurcher/neocortex
+
+==============================================================================
+4. License                                                 *neocortex-license*
+
+Neocortex is released under the Apache 2.0 license, a copy of which should be
+included with the plugin (https://github.com/richchurcher/neocortex/LICENSE).
